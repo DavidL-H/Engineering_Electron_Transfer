@@ -1,7 +1,7 @@
 # Engineering_Electron_Transfer
 Chapter V of the Ph.D.
 Engineering and discovery of novel electron transfer strategies for Biotin Synthase
-## Sequence similarity network and Genome-neighborhood Network - Used for figure 4 and Figure 4
+## Sequence similarity network and Genome-neighborhood Network - Used for Figure 3 and Figure 4
 ### BATS_GNN.R
 R-script for handling the data in the GNN csv file (below)
 ### BATS_1_SSN_150 Full Network GNN default node.csv
