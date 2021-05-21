@@ -10,7 +10,7 @@ Export of all data in the GNN, from Cytoscape Table export function on the "BATS
 List of PFAM manually picked PFAM of interest, related to electron-transfer proteins
 ### PFAM in GNN overview and count.xlsx
 output from BATS_GNN.R, showing the amount fo cluster related to each PFAM of interest, as well as manually chosen cluster of interst
-### BATS_SSN_150_full_ssn.xgmml
+### BATS_SSN_150_full_ssn.xgmml in GNN and SNN networks.rar
 The original SNN from the EFI webserver. Made to be opened in Cytoscape
-### BATS_GNN_co10_ns5.xgmml
+### BATS_GNN_co10_ns5.xgmml in GNN and SNN networks.rar
 The original GNN from the EFI webserver. Made to be opened in Cytoscape
