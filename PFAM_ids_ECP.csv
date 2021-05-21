@@ -1,0 +1,36 @@
+PFAM,ID,Desc
+PF00037,Fer4,4Fe-4S binding domain
+PF12838,Fer4_7,4Fe-4S dicluster domain
+PF13237,Fer4_10,4Fe-4S dicluster domain
+PF01257,2Fe-2S_thioredx,Thioredoxin-like [2Fe-2S] ferredoxin
+PF13370,Fer4_13,4Fe-4S single cluster domain of Ferredoxin I
+PF14697,Fer4_21,4Fe-4S dicluster domain
+PF12797,Fer4_2,4Fe-4S binding domain
+PF12798,Fer4_3,4Fe-4S binding domain
+PF12800,Fer4_4,4Fe-4S binding domain
+PF12801,Fer4_5,4Fe-4S binding domain
+PF12837,Fer4_6,4Fe-4S binding domain
+PF13183,Fer4_8,4Fe-4S dicluster domain
+PF13247,Fer4_11,4Fe-4S dicluster domain
+PF13746,Fer4_18,4Fe-4S dicluster domain
+PF16947,Ferredoxin_N,N-terminal region of 4Fe-4S ferredoxin iron-sulfur binding
+PF13085,Fer2_3,2Fe-2S iron-sulfur cluster binding domain
+PF13353,Fer4_12,4Fe-4S single cluster domain
+PF13510,Fer2_4,2Fe-2S iron-sulfur cluster binding domain
+PF13534,Fer4_17,4Fe-4S dicluster domain
+PF18109,Fer4_24,Ferredoxin I 4Fe-4S cluster domain
+PF00111,Fer2,2Fe-2S iron-sulfur cluster binding domain
+PF13459,Fer4_15,4Fe-4S single cluster domain
+PF13484,Fer4_16,4Fe-4S double cluster binding domain
+PF13806,Rieske_2,Rieske-like [2Fe-2S] domain
+PF01799,Fer2_2,[2Fe-2S] binding domain
+PF13394,Fer4_14,4Fe-4S single cluster domain
+PF02525,Flavodoxin_2,Flavodoxin-like fold
+PF00258,Flavodoxin_1,Flavodoxin
+PF00301,Rubredoxin,Rubredoxin
+PF02915,Rubrerythrin,Rubrerythrin
+PF12682,Flavodoxin_4,Flavodoxin
+PF12641,Flavodoxin_3,Flavodoxin domain
+PF12682,Flavodoxin_4,Flavodoxin
+PF07972,Flavodoxin_NdrI,NrdI Flavodoxin like
+PF12724,Flavodoxin_5,Flavodoxin domain
